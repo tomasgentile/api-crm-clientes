@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "name": "Tomás",
+      "company": "Coca Cola",
+      "email": "ltomass@hotmail.com",
+      "tel": "5154",
+      "notes": "notas",
+      "id": 1
+    },
+    {
+      "name": "Pedro",
+      "company": "chau",
+      "email": "mail@mail.com",
+      "tel": "223548787",
+      "notes": "notas",
+      "id": 2
+    },
+    {
+      "name": "Paulina",
+      "company": "Contrucciones",
+      "email": "email@email.com",
+      "tel": "5484",
+      "notes": "notas",
+      "id": 3
+    },
+    {
+      "name": "Alvaro Bermudez",
+      "company": "Intel",
+      "email": "alvaro@gmail.com",
+      "tel": "54878181996",
+      "notes": "",
+      "id": 5
+    }
+  ]
+}
